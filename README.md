@@ -6,7 +6,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Mobile+Engineer+%40+Sparkeefy+%F0%9F%9A%80;Flutter+%7C+Swift+%7C+React+Native+Developer;Building+apps+people+actually+use+%F0%9F%93%B1;Open+Source+Contributor+%7C+GSSoC+%26+Hacktoberfest)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Mobile+Engineer+%40+Sparkeefy+%F0%9F%92%9C;Flutter+%7C+Swift+%7C+React+Native+Developer;Building+apps+people+actually+use+%F0%9F%93%B1;Open+Source+Contributor+%7C+GSSoC+%26+Hacktoberfest)](https://git.io/typing-svg)
 
 </div>
 
@@ -17,7 +17,7 @@
 ```swift
 let shalin = Developer(
     role:       "Mobile Engineer @ Sparkeefy",
-    education:  "B.Tech CSE @ SRMISD — CGPA: 9.37 / 10",
+    education:  "B.Tech CSE @ SRMIST — CGPA: 9.37 / 10",
     location:   "Chennai, India 🇮🇳",
     focus:      ["iOS (Swift)", "Flutter", "React Native"],
     currentlyBuilding: "Scalable mobile apps for early-stage startups",
