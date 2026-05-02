@@ -1,19 +1,184 @@
-# 💫 About Me:
-<h1 align="center">Hi 👋, I'm Shalin Mishra</h1><br><h3 align="center"><br>Software Developer | Computer Science Undergraduate | Full-Stack & AI Enthusiast<br></h3><br><br>---<br><br>## 👨‍💻 About Me<br><br>- 🎓 B.Tech Computer Science student at **SRM Institute of Science and Technology**<br>- 💡 Passionate about building **scalable, user-centric applications**<br>- 🌱 Currently strengthening skills in **Full-Stack Development & AI/ML**<br>- 🧠 Strong foundation in **Object-Oriented Programming and Core CS**<br>- 🤝 Open to internships, collaborations, and impactful tech projects<br>- 📫 Reach me at **mishrashalin599@gmail.com**<br><br>---<br><br>## 🚀 Projects<br><br>## 🍳 Recipe Assistant App (UX-Based Project)<br><br> Tech Stack: UX Design, Frontend Development  <br> Timeline: Nov 2025 – Dec 2025  <br><br>---<br><br>### 🚨 Earthquake AutoRescue System<br> Tech Stack: Full-Stack Development, System Design  <br> Timeline: May 2025 – Jul 2025  <br><br>---<br><br>### 🏫 SRM Helpdesk App<br> Tech Stack: React, JavaScript, Web Technologies  <br> Timeline: Aug 2025 – Present  <br><br>---<br><br>### 🔐 OTP Authentication System (Firebase + Node.js)<br> Tech Stack: Node.js, Firebase, JavaScript  <br> Timeline: 2025  <br><br>---<br><br>## 
+<div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Shalin%20Mishra&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Mobile%20Engineer%20%7C%20App%20Dev%20%7C%20Builder&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/shalin-mishra-327423352) 
+</div>
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Three js](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Shalin1204&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Shalin1204&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Shalin1204&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Mobile+Engineer+%40+Sparkeefy+%F0%9F%9A%80;Flutter+%7C+Swift+%7C+React+Native+Developer;Building+apps+people+actually+use+%F0%9F%93%B1;Open+Source+Contributor+%7C+GSSoC+%26+Hacktoberfest)](https://git.io/typing-svg)
+
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Shalin1204&icon=0&color=0)](https://visitcount.itsvg.in)
 
-⚡ Fun Fact<br><br>> I enjoy understanding **how systems work internally**, not just how to use them.<br><br>---<br><br>⭐️ *Thanks for visiting my profile! Feel free to explore my repositories and connect with me.*<br>
+## 👨‍💻 About Me
 
+```swift
+let shalin = Developer(
+    role:       "Mobile Engineer @ Sparkeefy",
+    education:  "B.Tech CSE @ SRMISD — CGPA: 9.37 / 10",
+    location:   "Chennai, India 🇮🇳",
+    focus:      ["iOS (Swift)", "Flutter", "React Native"],
+    currentlyBuilding: "Scalable mobile apps for early-stage startups",
+    openTo:     "Internships, Collaborations & Open Source"
+)
+```
+
+---
+
+## 🚀 What I'm Up To
+
+| 🏢 Role | 🛠️ What I'm doing |
+|---|---|
+| **Mobile Engineer** @ [Sparkeefy](https://sparkeefy.com) | Building mobile product features, scalable architecture & production workflows |
+| **Prev: Flutter Dev Intern** @ MemoNeet | Built Flutter web app, Telegram bots, UI/UX improvements |
+| **Open Source** @ GSSoC & Hacktoberfest | Contributing to codebases, resolving issues, shipping fixes |
+
+---
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+### 📱 Mobile & App Dev *(Primary Focus)*
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+
+### 🌐 Web & Backend
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+
+### 💻 Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+### 🔧 Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+</div>
+
+---
+
+## 🏗️ Featured Projects
+
+<table>
+<tr>
+<td width="50%">
+
+### 🏫 Smart Campus App
+> AI-powered campus assistant built with swift iOS & React Native
+
+- 🤖 Gemini AI chatbot for campus queries
+- 🚌 Real-time bus tracking & navigation
+- 🍽️ Canteen system & parking assistant
+- 🚨 Emergency dashboard
+
+</td>
+<td width="50%">
+
+### 🛠️ SRM Helpdesk App
+> Maintenance management system in React Native
+
+- 👨‍🏫 Manages CINTEL dept staff & professors
+- 📋 Full ticket/request workflow
+- 🔐 Role-based access
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 🔐 OTP Authentication System
+> Secure auth with Firebase
+
+- 🔥 Firebase Auth integration
+- ✅ Backend OTP verification
+- 📱 Seamless frontend flow
+
+</td>
+<td width="50%">
+
+### 🧠 CNN Image Classifier
+> Deep learning with TensorFlow/Keras
+
+- 🏗️ Full CNN architecture
+- 📉 Early stopping & LR scheduling
+- 🔄 Data augmentation to reduce overfitting
+
+</td>
+</tr>
+</table>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Shalin1204&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shalin1204&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9"/>
+
+</div>
+
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=Shalin1204&theme=tokyonight&hide_border=true&background=0d1117&ring=a78bfa&fire=a78bfa&currStreakLabel=a78bfa)](https://git.io/streak-stats)
+
+</div>
+
+---
+
+## 🏆 Achievements & Certifications
+
+```
+🥇  Winner — JAVA EXPO 2025
+🚀  Final Round — Seismo Disaster Management Hackathon
+📡  Final Round — Hactrix (IoT) Hackathon
+🤖  App Dev Member — NextGenAI Club @ SRMISD
+🚄  Hyperloop Team — Embedded + Software Systems
+```
+
+<div align="center">
+
+![Fortinet](https://img.shields.io/badge/Fortinet-Certified_Professional_Security_Ops-EE3124?style=flat-square&logo=fortinet&logoColor=white)
+![AICTE](https://img.shields.io/badge/AICTE-Android_Dev_Internship-00897B?style=flat-square)
+![Postman](https://img.shields.io/badge/Postman-API_Student_Certificate-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![IIT Roorkee](https://img.shields.io/badge/IIT_Roorkee-Java+OOP-003580?style=flat-square)
+
+</div>
+
+---
+
+## 📬 Let's Connect
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shalin-mishra-327423352)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Shalin1204)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mishrashalin599@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](#)
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer&animation=fadeIn" width="100%"/>
+
+![Visitor Count](https://komarev.com/ghpvc/?username=Shalin1204&color=a78bfa&style=flat-square&label=Profile+Views)
+
+*"Code. Ship. Repeat."* 🚀
+
+</div>
