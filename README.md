@@ -15,14 +15,14 @@
 ## 👨‍💻 About Me
 
 ```swift
-let shalin = Developer(
-    role:       "Mobile Engineer @ Sparkeefy",
-    education:  "B.Tech CSE @ SRMIST — CGPA: 9.37 / 10",
-    location:   "Chennai, India 🇮🇳",
-    focus:      ["iOS (Swift)", "Flutter", "React Native"],
-    currentlyBuilding: "Scalable mobile apps for early-stage startups",
-    openTo:     "Internships, Collaborations & Open Source"
-)
+
+    Role:       "Mobile Engineer @ Sparkeefy",
+    Education:  "B.Tech CSE @ SRMIST — CGPA: 9.37 / 10",
+    Location:   "Chennai, India 🇮🇳",
+    Focus:      ["iOS (Swift)", "Flutter", "React Native"],
+    CurrentlyBuilding: "Focused on building practical, Scalable apps.",
+    OpenTo:     "Internships, Collaborations & Open Source"
+
 ```
 
 ---
